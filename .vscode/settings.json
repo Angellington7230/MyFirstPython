@@ -1,0 +1,16 @@
+{
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "miku",
+    "php.validate.executablePath": "",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "cls ; python -u",
+    },
+    "diffEditor.experimental.showMoves": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "python"
+}
