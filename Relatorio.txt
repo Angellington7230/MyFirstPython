@@ -1,0 +1,189 @@
+Segunda Feira 07/08/2023 (4h)
+O dia começou e fomos apresentados aos setores da empresa e depois podemos escolher qual setor iríamos ficar, escolhi o Desenvolvimento. 
+A Sabrina Aguiar, ex-estudante de Redes do Presidente Roosevelt está sendo nossa orientadora e o Lima o nosso supervisor. No primeiro dia,
+fomos apresentados ao projeto da Sabrina, o intuíto é recriar o site do Portal da Polícia Civil para um mais otimizado e adequado para o
+consumidor final e aos programadores que forem trabalhar posteriormente, com o objetivo de ser uma ferramento de aprendizado para nós, tanto
+estagiários quanto orientadora. 
+
+
+Terça Feira 08/08/2023 (8h)
+O objetivo central do dia foi ajudar adicionando os manuais, links e imagens dos links no site em desenvolvimento.
+
+
+Quarta Feira 09/08/2023 (12h)
+Hoje foi o dia em que comecei a fazer o curso gratuito do Gustavo Guanabara de Github. Aprendi muita e muita coisa, e como foi sem terminal,
+o básico se aplicou excepcionalmente. Aprendi a criar um repositório, publicar um repositório, verificar com atenção as necessidades do
+programa e do Github Desktop.
+
+Quinta Feira 10/08/2023 (16h) [Restam 254 horas]
+Demos continuidade ao estudo de Github Desktop, em que aprendemos sobre a clonagem de um projeto, ramificações chamado branches e a linguagem
+Markdown. Como ficaremos cinco dias sem vir ao estágio, darei continuidade aos meus estudos em casa.
+
+Quarta Feira 16/08/2023 (20h)
+Já faz um tempo que não voltamos aqui. A nossa responsável está de atestado, então decidimos começar o curso de HTML5 e CSS3 do Gustavo Guanabara, 
+como nós tivemos que compartilhar o computador com o Filipe, não deu para absorver muito ainda, porém de pouquinho em pouquinho avançaremos.
+
+Quinta Feira 17/08/2023 (24h)
+Mais um dia coberto de aprendizado em HTML, quase no fim do modulo 1. Hoje aprendi a colocar Favcons,links nos sites, semantica, listas ordenadas e não ordenadas.
+Foi um dia bastante produtivo, nós voltamos amanhã.
+
+Sexta Feira 18/08/2023 (28h) - [Restam 242 horas]
+Hoje aprendemos e terminamos o módulo 1 de HTML. Fizemos alguns desafios, todos eles, exceto que faltou alguns detalhes, mas quem se importa... Nós nos importamos.
+Hoje foi a nossa primeira vez explorando o CSS e NOSSA, que linguagem gostosa! Aprendemos a colocar áudio e vídeo e foi isso... Não conseguimos atribuir a foto
+dinâmica, mas alguma outra hora voltaremos nisso. Até semana que vem.
+
+Segunda Feira 21/08/2023 (32h)
+Lar doce lar. Hoje aprendemos efetivamente de como mexer com o Git Terminal, criamos a chave do Git, começamos a estudar CSS3, principalmente sobre cores. Amém!
+
+Terça Feira 22/08/2023 (36h)
+Hoje estudamos sobre cores e fontes... Repertório foi acrescentado, é incrível como essas coisas dão significados ocultos no cérebro.
+
+Quarta Feira 23/08/2023 (40h)
+Prosseguimos o curso de de HTML5 e CSS3 do Gustavo Guanabara
+
+Quinta Feira 24/08/2023 (45h)
+Concluímos o módulo 2 de HTML5 e CSS3 e a Sabrina ordenou nós a aprender a fazer formulário via HTML.
+
+Sexta Feira 25/08/2023 (49,5h) - [Restam 220,5]
+Veremos o que vai ser...  Concluímos o desafio do Formulário. Semana que vem começaremos o módulo de HTML e CSS3 do Guanabara.
+
+Segunda Feira 28/08/2023 (53,5h)
+Hoje começamos o modulo 3 de HTML5 e CSS3 e criamos uma organização no Github chamado de Veras Estagiários!
+
+Terça Feira 29/08/2023 (58h)
+Continuamos o modulo 3 do Gustavo Guanabara, fizemos o Cordel e publicamos: https://yukenshi7230.github.io/My-first-code/html-css/desafios/desafio12/index.html
+Além disso, a Sabrina nos pediu para dar umas ideias para o Portal.
+
+Quarta Feira (Mediação)
+
+Quinta Feira 31/08/2023 (62,5h)
+Continuamos no modulo 3 do Guanabara, prestes a terminar! E começamos o projeto do site.
+
+Sexta Feira 01/09/2023 (67h) - [Restam 203 horas]
+Finalmente concluímos um pouco da interface do site e começamos o modulo 4 do Guanabara. EBAAA O último modulo!
+
+Segunda Feira 04/09/2023 (71h)
+Foi o nosso dia mais produtivo. Mas é segredo, shhhh... A Sabrina nos pediu para fazer um convite de aniversário da irmãzinha dela e usando nossos conhecimentos de photoshop, nós superamos qualquer obstáculo! E depois o Silveia nos pediu para ajudar ele no Photoshop também. E começamos a fazer um estudo profundo de iframe.
+
+Terça Feira 05/09/2023 (75h)
+Terminamos o do Silveira e o da Sabrina. A seguir fomos estudar e terminar sobre iframe... Amanhã começaremos com Formulários.
+
+Quarta Feira 06/09/2023 (80h) - Restam 190 horas)
+Hoje demos continuidade ao projeto ENEM. Bruh, não deu muito certo utilizar tabelas, então optamos por usar divs. Após isso começamos nossos estudos com Formulários via Gustavo Guanabara.
+
+Segunda Feira 11/09/2023 (84,5h)
+Construímos os cartões!!! Ficaram lindos! E vão até para links! Além disso, continuamos no estudo do HTML5! Falta pouco para terminar!!!!!! Esta semana chegaremos ao fim! E então iniciaremos Javascript!
+
+Terça Feira 12/09/2023 (89h)
+Continuamos no site e teve uma conversa muito produtiva com o Silveira e a Sabrina sobre a nossa carreira, além disso houve avanços no Portal da Sabrina que tá quase no fim.
+
+Quarta Feira 13/09/2023 (93,5h)
+Continuamos no site e foi um desenvolvimento caprichoso. Esperemos que dê para avançar rapidamente em breve. Aprendemos mais sobre HTML em relação aos forms e começamos a trabalhar com Media Query.
+
+Quinta Feira 14/09/2023 (98,5h)
+Hoje arendemos muito sobre Media Query e noooosssa, vamos ter que revisar isso sempre e sempre e sempre e sempre, pois é um conteúdo muito específico.
+
+Sexta Feira 15/09/2023 (101,5h) - [ Restam 169 horas]
+Terminamos HTML5 e CSS3 (último conteúdo foi Mobile First) e começamos os princípios do Javascript! Semana que vem será SÓ Javascript! Quando restar 70 horas, o projeto final será revelado!
+
+Segundo Feira 18/09/2023 (106h) 
+Continuamos o javascript e fizemos o Modulo B e C
+
+Terça Feira 19/09/2023 (110.5h)
+Continuamo o javascript e fizemos o Modulo D, as condições simples if e else, além de aplicar um pouquinho as variáveis.
+
+Quarta Feira 20/09/2023 (114.5h)
+Continuamos o javascript e fizemos o Modulo E, as estruturas de repetições, for, do, while e aplicar um pouquinho o debug e seus breakpoints.
+
+Quinta Feira 21/09/2023 (119.5h)
+Terminamos o Modulo F de Javascript, agora sabemos o que é array/listas ou variáveis compostas. 
+
+Sexta Feira 22/09/2023 (122.5h) - [ Restam 147,5h ] 
+Hoje estudaremos especificamente para o simulado de amanhã. Boa sorte, meu anjo!
+
+Segunda Feira 25/09/2023 (127.5h)
+Fizemos alguns ajustes, e mais alguns ajustes.
+
+Terça Feira 26/09/2023 (132.5h)
+Ajustei o site em CSS!! PS: DIFICULDADE EM JAVASCRIPT!!!
+
+Quarta Feira 27/09/2023 (137h)
+Ajustes e mais ajustes...
+
+Quinta Feira 28/09/2023 (mediação)
+
+Sexta Feira 29/09/2023 (140.5H) - [ Restam 129.5h)
+Mexemos no Projeto Enem com mudanças significativas e comprei um Curso Python.
+
+Segunda Feira(02/10/2023 (144.5)
+Ajudando no Portal!
+
+Terça Feira 03/10/2023 (149h)
+Começamos a estudar Python intensivão, ajustes no portal e mexemos no sistema do ENEM.
+
+Quarta Feira 04/10/2023 (153.5h)
+Nyeh, nada de novo...
+
+Quinta Feira 05/10/2023
+COMPETIÇÃO DE ESTAGIÁRIO! (157.5h)
+
+Sexta Feira 06/10/2023 (161.5h) - [ Restam 112. 5h)
+Bleeeh... Honestamente estou ficando irritado com certas coisas que acontecem aqui dentro. É como se reduzisse a gente, deprimisse, a nula identidade que nós estagiários temos. Estou ficando exausto. Eu não queria competir com o estagiário da manhã, afinal, somos diferentes e setores diferentes. Eu não gosto de Design ou coisa do tipo, pelo contrário, eu faço porque é consequência do trabalho que eu fiz anteriormente. Hora de desabafar. Eu não gosto verdadeiramente de programar e desenvolver, eu faço isso porque o mercado exige, porque aqui eu sei que vou ter crescimento. O meu conhecimento sempre vai ter que se expandir. Na teoria é bom, mas na prática, é frustrante. Esta é uma área de crescimento constante e pelo que falam, o resultado disso é muito bom. Ai, Deus. Eu só quero fazer as coisas no meu tempo.
+
+Terça Feira 10/10/2023 (165,5h)
+Projeto Enem, emails e design
+
+Quarta Feira 11/10/2023 (169.5h)
+Projeto e trotes!
+
+Segunda Feira 16/10/2023 (174h) - [ Restam 96 ]
+Cris voltou, ligamos o pc, reinstalamos tudo de novo e etc... Python o curso da Udemy!!!!
+
+Terça Feira 17/10/2023 (178h) 
+Não me lembro
+
+Sexta Feira 20/10/2023 (180h) - [ Restam 90 horas ] 
+Estudamos mais um pouco
+
+Segunda Feira 23/10/2023 (184,5h) -
+
+Terça Feira 24/10/2023 (189,5H)
+
+Quarta Feira 25/10/2023 (194,h)
+
+Quinta Feira 26/10/2023 (199h.5h)
+
+Sexta Feira 27/10/2023 (204.5h)
+
+Segunda Feira 30/10/2023 (209.5h)
+
+Terça Feira 01/11/2023 (214.h)
+
+Quarta Feira 02/11/2023 (219h)
+
+Quinta Feira 03/11/2023 (224.5h)
+
+Sexta Feira 04/11/2023 (229.5h)
+
+Terça Feira 08/11/2023 (234.5h)
+
+Quarta Feira 09/11/2023 (239.5h)
+
+Quinta Feira 10/11/2023 (244.5h)
+
+Sexta Feira 11/11/2023 (249.5h)
+
+Terça Feira 14/11/2023 (254.5h)
+
+Quarta Feira 15/11/2023 (259.5h)
+
+Quinta Feira 16/11/2023 (264.5h)
+
+Sexta Feira 17/11/2023 (269.5h)
+
+
+
+
+
+
+Cursos para alcançar: (Github [X]) (HTML e CSS3 [X]) (Javascript[X]) (Python) (Photoshop[X]) (Premiere)

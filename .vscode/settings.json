@@ -2,15 +2,21 @@
     "files.autoSave": "afterDelay",
     "explorer.confirmDelete": false,
     "editor.wordWrap": "on",
-    "workbench.colorTheme": "Shades of Purple (Super Dark)",
+    "workbench.colorTheme": "miku",
     "php.validate.executablePath": "",
+    "editor.renderWhitespace": "all",
     "liveServer.settings.donotShowInfoMsg": true,
     "code-runner.runInTerminal": true,
+    
     "code-runner.clearPreviousOutput": true,
     "code-runner.executorMap": {
         "python": "cls ; python -u",
     },
     "diffEditor.experimental.showMoves": true,
     "workbench.iconTheme": "material-icon-theme",
-    "python.defaultInterpreterPath": "python"
+    "python.defaultInterpreterPath": "python",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
 }

@@ -1,1 +1,0 @@
-print('Yukenshi, 1,2 ,3!')
