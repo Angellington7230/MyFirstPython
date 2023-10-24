@@ -2,7 +2,7 @@
     "files.autoSave": "afterDelay",
     "explorer.confirmDelete": false,
     "editor.wordWrap": "on",
-    "workbench.colorTheme": "miku",
+    "workbench.colorTheme": "Cute",
     "php.validate.executablePath": "",
     "editor.renderWhitespace": "all",
     "liveServer.settings.donotShowInfoMsg": true,
