@@ -115,17 +115,17 @@ menos escreva "Seu nome é curto"; se tiver entre 5 e 6 letras, escreva
 """
 
 
-# # Funciona perfeitamente!
-# nome = input('Insira seu nome, mortal: ')
-# nomei = len(nome)
+# Funciona perfeitamente!
+nome = input('Insira seu nome, mortal: ')
+nomei = len(nome)
 
-# nomestr = int(nomei)
+nomestr = int(nomei)
 
-# if nomestr > 0 and nomestr <= 4:
-#     print('Nome pequeno')
-# elif nomestr >= 5 and nomestr <= 6:
-#     print('Nome normal')
-# elif nomestr > 6:
-#     print('Seu nome é grande!')
-# else:
-#     print('Definitivamente um dos nomes já criados!')
+if nomestr > 0 and nomestr <= 4:
+    print('Nome pequeno')
+elif nomestr >= 5 and nomestr <= 6:
+    print('Nome normal')
+elif nomestr > 6:
+    print('Seu nome é grande!')
+else:
+    print('Definitivamente um dos nomes já criados!')
