@@ -57,7 +57,7 @@ while True:
         print('---------------------------------')
         continue
     
-
+#up
 while True:
     DD = input('De onde é sua namorada? ')
     # if DD == 'Rio Grande do Sul' and 'RS':
