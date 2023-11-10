@@ -2,34 +2,34 @@
 
 import time
 
-# # Utilizando a técnica do Try Catch *1*
-# while True:
-#     try:
-#         numero = input('Insira um número: ')
-#         numero_int = int(numero)
-#         break
-#     except: 
-#         print('Insira um número de verdad!! ')
-#     continue
-# print(f'O número informado foi {numero_int}!!')
+# Utilizando a técnica do Try Catch *1*
+while True:
+    try:
+        numero = input('Insira um número: ')
+        numero_int = int(numero)
+        break
+    except: 
+        print('Insira um número de verdad!! ')
+    continue
+print(f'O número informado foi {numero_int}!!')
 
 
-# # Utilizando algo mais simples. If e else!! *2*
-# while True:
-#     numero = input('Insira um número: ')
+# Utilizando algo mais simples. If e else!! *2*
+while True:
+    numero = input('Insira um número: ')
 
-#     if numero.isdigit():
-#         numero_int = int(numero)
-#         print(f'O seu número é {numero_int}')
-#         break
-#     else:
-#         print('Insira um número de verdade!')
+    if numero.isdigit():
+        numero_int = int(numero)
+        print(f'O seu número é {numero_int}')
+        break
+    else:
+        print('Insira um número de verdade!')
 
 
     
 
 
-# # Número da namorada!!
+# Número da namorada!!
 
 
 
@@ -60,15 +60,15 @@ while True:
 #up
 while True:
     DD = input('De onde é sua namorada? ')
-    # if DD == 'Rio Grande do Sul' and 'RS':
-    #     DD = '81'
-    #     break
-    # elif DD == 'Ceará' and 'CE':
-    #     DD = '85'
-    #     break
-    # else:
-    #     print('Digite um DD correto')
-    #     continue
+    if DD == 'Rio Grande do Sul' and 'RS':
+        DD = '81'
+        break
+    elif DD == 'Ceará' and 'CE':
+        DD = '85'
+        break
+    else:
+        print('Digite um DD correto')
+        continue
 
 
 while True:
