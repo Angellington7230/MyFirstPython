@@ -6,10 +6,43 @@ Não permita que o programa quebre com erros
 de índices inexistentes na lista.
 '''
 
-listar = []
-apagar = listar.remove
-inserir = listar.append
+import os
+
+lista = []
 
 while True:
-    input = 'adicionar(a) / excluir (e) / listar(l) ':
-    if 
+    print('Selecione uma opção')
+    opcao = input('[i]nserir [a]pagar [l]istar: ')
+
+    if opcao == 'i':
+        os.system('cls')
+        valor = input('Valor: ')
+        print('i')
+        lista.append(valor)
+    elif opcao == 'a':
+        os.system('cls')
+        indice_str = input(
+            'Escolha o índice para apagar: '
+        )
+
+        try:
+            indice = int(indice_str)
+            del lista[indice]
+        except ValueError:
+            print('Por favor, digite um número int.')
+        except IndexError:
+            print('Índice não existe na lista')
+        except Exception:
+            print('Erro desconhecido!')   
+ 
+    elif opcao == 'l':
+        os.system('cls')
+
+        if len(lista) == 0:
+            print('Nada para listar!')
+
+        for i, valor in enumerate(lista):
+            print(i, valor) 
+    else:
+        os.system('cls')
+        print( 'Por favor, algo real')
