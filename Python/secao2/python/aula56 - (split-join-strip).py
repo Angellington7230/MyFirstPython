@@ -5,7 +5,7 @@ join - une uma string
 '''
 
         # split
-frase = 'Secsu com Ivana Forte Chaves'
+frase = 'Morte em massa, cidade foi devastada, tudo isso pois sou fraco'
 lista_frases_cruas = frase.split(',')
 
 
