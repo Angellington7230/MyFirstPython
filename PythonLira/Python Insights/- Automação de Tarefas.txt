@@ -1,0 +1,4 @@
+- Automação de Tarefas
+- Criação de Bots
+- Economizar Horas de Trabalho
+- RPA e Web-Scraping
